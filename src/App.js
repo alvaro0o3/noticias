@@ -32,7 +32,7 @@ function App() {
         titulo="Buscador de noticias"
       />
 
-      <div className="container white">
+      <div className="container ">
         <Formulario 
           setCategoria={setCategoria}
         />
