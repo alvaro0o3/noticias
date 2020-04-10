@@ -1,0 +1,17 @@
+/* Módulo formulario */
+.heading {
+    /* font-family: 'Bebas Neue', cursive; */
+    font-family: 'Raleway';
+    font-weight: 900;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+
+.buscador {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: left;
+}
